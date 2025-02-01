@@ -1,4 +1,4 @@
-# Diamond-Price-Detection
+# Diamond-Price-Prediction-ML
 This project demonstrates an exploratory data analysis (EDA) and modeling process using the diamonds.csv dataset, focusing on predicting diamond prices using machine learning.
 
     Data Exploration:
